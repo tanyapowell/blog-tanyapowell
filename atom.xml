@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Personal Blog of Tanya Powell</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.tanyapowell.co.uk/"/>
+  <updated>2017-02-06T19:52:07.000Z</updated>
+  <id>http://blog.tanyapowell.co.uk/</id>
+  
+  <author>
+    <name>Tanya Powell</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2017 Goals</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/12/31/Goals/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/12/31/Goals/</id>
+    <published>2016-12-31T00:00:00.000Z</published>
+    <updated>2017-02-06T19:52:07.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Well, this has been a weird year. I’m sure you’ll remember it fondly. Usually, at this time of year, I like to reflect on the year and th
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Beginner&#39;s Guide to Progressive Web Apps</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/11/02/PWA/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/11/02/PWA/</id>
+    <published>2016-11-02T00:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Last week I attended &lt;a href=&quot;http://www.deanhume.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Dean Hume’s&lt;/a&gt; Progressive Web Apps for beginners
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The Intersections of Tech Series | Urban Exposure</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/05/26/Urban-Exposure/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/05/26/Urban-Exposure/</id>
+    <published>2016-05-25T23:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This morning I bumped into a woman (a few years older than me), that I grew up with and haven’t seen since I was about 12 years old. Afte
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Live - How to Blog with WHFNP</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/04/27/How-To-Blog-With-WHFNP/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/04/27/How-To-Blog-With-WHFNP/</id>
+    <published>2016-04-26T23:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Last week a few of us who volunteer at &lt;a href=&quot;http://www.womenhackfornonprofits.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Women Hack for Non
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Empowerhack-ing A Story Part 3</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/</id>
+    <published>2016-04-24T23:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;So much happened over the &lt;a href=&quot;http://empowerhack.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EmpowerHack&lt;/a&gt; LDN weekend that I couldn’t fit
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Empowerhack-ing A Story Part 2</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/</id>
+    <published>2016-04-24T23:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;How could I leave you all hanging? Just waiting with anticipation to find out how the rest of the &lt;a href=&quot;http://empowerhack.com&quot; target
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Empowerhack-ing A Story</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/04/09/Empowerhacking-A-Story/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/04/09/Empowerhacking-A-Story/</id>
+    <published>2016-04-08T23:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;For months now I’ve been meaning to try out &lt;a href=&quot;https://storify.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Storify&lt;/a&gt;, but always get dist
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Those who can...become a mentor</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/03/17/Be-A-Mentor/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/03/17/Be-A-Mentor/</id>
+    <published>2016-03-17T00:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;Confidence&lt;/strong&gt;. Something that I work on daily.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Helping others&lt;/strong&gt;. Something that I should do more ofte
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Let&#39;s make a Family Tree</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/02/02/Family-Tree/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/02/02/Family-Tree/</id>
+    <published>2016-02-02T00:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Was talking to one of my colleagues in a different team after 5pm and he said he was doing some work with &lt;a href=&quot;https://www.sencha.com
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>OscarsSoWhite</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/01/23/Oscars-So-White/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/01/23/Oscars-So-White/</id>
+    <published>2016-01-23T00:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Not sure if I told you before, but I used to work in television. Since leaving that world my focus has been on all things client-server s
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Messy Hair - Yes I Do Care</title>
+    <link href="http://blog.tanyapowell.co.uk/2015/11/30/Messy-Hair/"/>
+    <id>http://blog.tanyapowell.co.uk/2015/11/30/Messy-Hair/</id>
+    <published>2015-11-30T00:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Ok let’s start with some honesty, my hair is a damn mess right now. I haven’t taken care of it &lt;strong&gt;FOR&lt;/strong&gt; months! Today is Mond
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Jealous Females</title>
+    <link href="http://blog.tanyapowell.co.uk/2015/11/29/Jealous-Females/"/>
+    <id>http://blog.tanyapowell.co.uk/2015/11/29/Jealous-Females/</id>
+    <published>2015-11-29T00:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;So much for the sisterhood! No matter how well I do in life I try not to brag. I just humble myself, try and help out others and continue
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Making The Transition Part 3</title>
+    <link href="http://blog.tanyapowell.co.uk/2015/11/16/Making-The-Transition-Part3/"/>
+    <id>http://blog.tanyapowell.co.uk/2015/11/16/Making-The-Transition-Part3/</id>
+    <published>2015-11-16T00:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Ok wow! Really didn’t expect my career change post to resonate with people. I guess it’s something everyone can relate to, as it’s not ju
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Making The Transition Part 2</title>
+    <link href="http://blog.tanyapowell.co.uk/2015/11/15/Making-The-Transition-Part2/"/>
+    <id>http://blog.tanyapowell.co.uk/2015/11/15/Making-The-Transition-Part2/</id>
+    <published>2015-11-15T00:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;The lovely &lt;a href=&quot;http://dionnecondor-farrell.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Dionne&lt;/a&gt; (who I met a few months back at &lt;a href=&quot;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Digital Marketing advice from a Software Engineer</title>
+    <link href="http://blog.tanyapowell.co.uk/2015/11/14/Digital-Marketing-Advice/"/>
+    <id>http://blog.tanyapowell.co.uk/2015/11/14/Digital-Marketing-Advice/</id>
+    <published>2015-11-14T00:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Twice this week I’ve been asked by friends for advice for improving their social media presence for their blogs. Both times I’ve paused a
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Recent Fashion Technology Blog Posts</title>
+    <link href="http://blog.tanyapowell.co.uk/2015/11/08/Recent-Fash-Tech-Posts/"/>
+    <id>http://blog.tanyapowell.co.uk/2015/11/08/Recent-Fash-Tech-Posts/</id>
+    <published>2015-11-08T00:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Fashion Technology FASCINATES me! It combines two of my loves. In September I attended a Fashion Technology Startup Wekend and my team ca
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Making The Transition</title>
+    <link href="http://blog.tanyapowell.co.uk/2015/11/07/Making-The-Transition/"/>
+    <id>http://blog.tanyapowell.co.uk/2015/11/07/Making-The-Transition/</id>
+    <published>2015-11-07T00:00:00.000Z</published>
+    <updated>2016-12-31T07:44:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;So the title could be a teeny weeny bit misleading, especially if you’re anything like me and spend far too much time following the &lt;a hr
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
