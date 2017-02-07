@@ -72,3 +72,11 @@ deploy:
   repo: https://github.com/tanyapowell/blog-tanyapowell.git
   branch: gh-pages
   message:
+
+# RSS Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:    
