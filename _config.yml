@@ -79,4 +79,12 @@ feed:
   path: atom.xml
   limit: 20
   hub:
-  content:    
+  content:
+
+# Offline Reading via Service Workers
+offline:
+  maximumFileSizeToCacheInBytes: 5242880
+  staticFileGlobs:
+  - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff}
+  stripPrefix: public
+  verbose: true
