@@ -19,6 +19,11 @@
     <%- partial('gallery') %>
 <% } %>
 
+<!-- Feature Image -->
+<% if (item.featured_image){ %>
+    <img src="<%- item.featured_image %>">
+<% } %>
+
 <!-- Content -->
 <%- item.content %>
 
