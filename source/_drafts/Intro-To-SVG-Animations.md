@@ -1,8 +1,9 @@
 ---
 title: Intro to SVG Animations
 categories: technology
+description: I'm a description, fool
 tags:
-featured_image: images/barca1.jpg
+featured_image: /images/barca1.jpg
 ---
 
 ![Ice Cream SVG gif](https://cdn-images-1.medium.com/max/800/1*7niSaqGN_IwJcwHbsqxHAQ.gif)
