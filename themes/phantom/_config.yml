@@ -1,0 +1,53 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: "https://tanyapowell.co.uk"
+
+# Logo Image Source
+logo_src: https://s3-eu-west-1.amazonaws.com/tanyapowell/6105146987_93f5537c01_m.jpg
+
+# Theme Main Subtitle
+# subtitle_main: "{ Software Engineer | Wannabe Chef | Occasional Photographer | Reality TV Enthuiast }"
+
+# Theme Secondary subtitle
+# susbtitle_secondary: "{ Software Engineer | Wannabe Chef | Occasional Photographer | Reality TV Enthuiast }"
+
+# Footer About Section
+about_footer: "{ Software Engineer | Wannabe Chef | Occasional Photographer | Reality TV Enthuiast }"
+
+# Default post title
+default_post_title: Untitled
+
+# Default post cover index page (Recommended)
+default_cover_index: "http://placehold.it/450x450"
+
+# Default post cover index page (Optional)
+default_cover_detail:
+
+# Show Dates for posts and pages
+show_dates: true
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  # disqus_shortname: klugjo
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics: UA-69471485-1
+
+# Social Accounts
+twitter_url: https://twitter.com/tanya_powell
+# facebook_url: https://www.facebook.com/
+# instagram_url: https://www.instagram.com/
+github_url: https://github.com/tanyapowell
+# googleplus_url: https://plus.google.com/
+# behance_url: https://www.behance.net/
+# fivehundredpx_url: https://500px.com/
+email_url: mailto:hello@tanyapowell.co.uk
+rss_url: atom.xml/rss2.xml
