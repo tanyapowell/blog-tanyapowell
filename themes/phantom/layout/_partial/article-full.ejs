@@ -2,9 +2,10 @@
 <% if(theme.show_dates) { %>
     <h1 class="title"><%- item.title || theme.default_post_title || "Untitled" %></h1>
     <div class="meta">
+      <i class="fa fa-calendar" aria-hidden="true"></i>
         <%= item.date.format(config.date_format) %>  ||
         <!-- How long will it take to read -->
-        Reading Time:
+        <i class="fa fa-clock-o" aria-hidden="true"></i>
         <%- readingTime(page.content, 'min') %>
     </div>
 <% } else { %>
