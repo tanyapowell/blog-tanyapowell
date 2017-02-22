@@ -1,0 +1,8 @@
+<%
+  var categories = [];
+  item.categories.forEach(function(category){
+    categories.push(category.name);
+  });
+%>
+
+<%- categories.join(' / ') %>
