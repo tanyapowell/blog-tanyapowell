@@ -1,5 +1,5 @@
 ---
-title: Intro to SVG Animations
+title: Gentle Intro to SVG Animations
 categories: technology
 description: I'm a description, fool
 tags:
@@ -39,8 +39,20 @@ Fortunately we have options. To animate SVG elements either use a dedicated SVG 
 ##### _OVERVIEW GOES HERE_
 
 ### Snag.svg
+- _more like JQuery for SVG_
+
 ### Velocity.js
 ### GreenSock (GSAP)
+
+{% codepen sdras Wramvo 0 [result [500px [100%]]] %}
+
+### React Motion
+### Web Animations API
+### Velocity
+- _similar to GreenSock without the bells and whistles_
+
+### Mo.js
+
 ---
 
 # _Notes_
@@ -50,6 +62,14 @@ Fortunately we have options. To animate SVG elements either use a dedicated SVG 
 - Have a navigable DOM, meaning they are easy to animate
 - Easy to make accessible, you can add titles and aria labels. So moving images can now be accessible on a screen reader
 - SVGOMG by Jake Archibald is a GUI based SVG optimiser. It is recommended to use a GUI based optimiser
+- Animation can guide users
+- Animation can retain context
+- Animation cuts down on _perceived wait time_
+- [Viget](https://www.viget.com/articles/experiments-in-loading-how-long-will-you-wait) did an experiment and found out that people will stick around for longer if you make a custom loader. Therefore improving bounce rates
+- Animations can help with content switching
+- [http://jankfree.org/](http://jankfree.org/)
+- [react motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.m9j25xi6z)
+- [Joe Harrison](http://www.joeharrison.co.uk/)'s [SVG sprite technique](http://responsiveicons.co.uk/)
 
 ## SVG Sprites
 - Animation media queries can work on SVG DOM elements
@@ -65,7 +85,7 @@ Fortunately we have options. To animate SVG elements either use a dedicated SVG 
 - Cycle Swagger
 - Solves cross browser incompatibilities
 
-## SnapSVG
+## Snap.SVG
 - Allows you to Morph, but you need to have the same number of path values
 
 ## Accessiblity
