@@ -1,5 +1,6 @@
 ---
-title: Playing-with-GSAP
+title: Playing with GSAP
+categories: Technology
 tags: 'SVG, Animation'
 date: 2017-02-20 19:54:02
 ---

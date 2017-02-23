@@ -7,7 +7,7 @@
         <img src="<%- item.cover_index || theme.default_cover_index %>" alt="" />
     </span>
     <a href="<%- config.root %><%- item.path %>">
-        <h2><%- item.title || theme.default_post_title || "Untitled" %></h2>
+        <h2 class="tiles-title"><%- item.title || theme.default_post_title || "Untitled" %></h2>
         <div class="content">
             <p><%- item.subtitle || "" %></p>
             <p><i class="fa fa-tag" aria-hidden="true"></i><%- partial('article-categories') %></p>
