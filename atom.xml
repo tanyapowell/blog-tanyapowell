@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.tanyapowell.co.uk/"/>
-  <updated>2017-02-20T19:54:02.000Z</updated>
+  <updated>2017-02-22T23:57:14.000Z</updated>
   <id>http://blog.tanyapowell.co.uk/</id>
   
   <author>
@@ -16,17 +16,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Playing-with-GSAP</title>
+    <title>Playing with GSAP</title>
     <link href="http://blog.tanyapowell.co.uk/2017/02/20/Playing-with-GSAP/"/>
     <id>http://blog.tanyapowell.co.uk/2017/02/20/Playing-with-GSAP/</id>
     <published>2017-02-20T19:54:02.000Z</published>
-    <updated>2017-02-20T19:54:02.000Z</updated>
+    <updated>2017-02-22T23:57:14.000Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;I’ve been working on an &lt;strong&gt;Intro to SVG Animation&lt;/strong&gt; blog post on and off for a while now. So far I had only been researching 
     
     </summary>
+    
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
     
     
       <category term="SVG, Animation" scheme="http://blog.tanyapowell.co.uk/tags/SVG-Animation/"/>
