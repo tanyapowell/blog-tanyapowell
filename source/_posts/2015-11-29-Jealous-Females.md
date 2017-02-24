@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Jealous Females
+subtitle: Dealing with jealously 
+categories: Black Girl Magic
+tags: 'Black girl magic'
 ---
 So much for the sisterhood! No matter how well I do in life I try not to brag. I just humble myself, try and help out others and continue doing me. But there's always got to be one chick who has to try and dig at you simply because she's not you.
 

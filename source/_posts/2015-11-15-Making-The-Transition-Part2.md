@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Making The Transition Part 2
+subtitle: Answering questions asked after Making The Transition part 1
+categories: Technology
+tags: 'Career, Technology'
 ---
 The lovely [Dionne](http://dionnecondor-farrell.com/) (who I met a few months back at [WHFNP](http://womenhackfornonprofits.com/)) read my post about my [career change](http://blog.tanyapowell.co.uk/Making-The-Transition/) and had **10** questions for me. Rather than simply answering her she suggested I answer her questions in a blog post for the world to see. This is going to be a long post so you may want to make a cup of tea and grab some biscuits first.
 

@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Messy Hair - Yes I Do Care
+subtitle: Pre-Shampoo DIY recipe to moisture my natural hair
+categories: Black Girl Magic
+tags: 'Black girl magic, Hair'
 ---
 Ok let's start with some honesty, my hair is a damn mess right now. I haven't taken care of it **FOR** months! Today is Monday and I haven't ran a comb or brush since Friday morning. Yes I am ashamed, but you know...the first step is admittance.
 

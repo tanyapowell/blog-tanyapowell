@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Empowerhack-ing A Story Part 2
+subtitle: A weekend at the EmpowerHack Hackathon via Storify
+categories: Technology
+tags: Technology, Hackathon
 ---
 How could I leave you all hanging? Just waiting with anticipation to find out how the rest of the [EmpowerHack](http://empowerhack.com) weekend went. Can you forgive me? ***PLEASE***
 

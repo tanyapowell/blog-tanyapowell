@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Empowerhack-ing A Story
+subtitle: A weekend at the EmpowerHack Hackathon via Storify
+categories: Technology
+tags: Technology, Hackathon
 ---
 For months now I've been meaning to try out [Storify](https://storify.com), but always get distracted. No more distractions! I've made the conscious effort to use it throughout the weekend for [EmpowerHack](http://empowerhack.com).
 

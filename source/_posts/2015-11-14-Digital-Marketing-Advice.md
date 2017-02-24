@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Digital Marketing advice from a Software Engineer
+subtitle: Recently I've been asked about digital marketing...here are my thoughts
+categories: Technology
+tags: 'Technology, Marketing'
 ---
 Twice this week I've been asked by friends for advice for improving their social media presence for their blogs. Both times I've paused and thought *"what do I know I'm a software engineer?* **And** *my social media is a mess"*. This slight doubt in my mind doesn't stop me from giving advice and pointing them in a direction they could find useful.
 

@@ -1,6 +1,8 @@
 ---
-layout: post
 title: The Intersections of Tech Series | Urban Exposure
+subtitle: 
+categories: Technology
+tags: Technology, Tech while Black
 ---
 
 This morning I bumped into a woman (a few years older than me), that I grew up with and haven't seen since I was about 12 years old. After exchanging a few pleasantries - how's mum? how's dad? etc - she then asked what I do for a living. When I told her she had one of the most confused looks I've ever seen.

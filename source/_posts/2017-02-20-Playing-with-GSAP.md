@@ -1,7 +1,8 @@
 ---
 title: Playing with GSAP
+subtitle: My first stab at doing animations with SVG
 categories: Technology
-tags: 'SVG, Animation'
+tags: SVG, Animation, Technology
 date: 2017-02-20 19:54:02
 ---
 

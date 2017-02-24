@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Making The Transition
+subtitle: My journey of changing careers from scheduling TV Programmes to making software
+categories: Technology
+tags: 'Career, Technology'
 ---
 
 So the title could be a teeny weeny bit misleading, especially if you're anything like me and spend far too much time following the [Caitlyn Jenner](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=caitlyn+jenner+transition) transition from being Bruce or watching random [BBC Three](http://www.bbc.co.uk/bbcthree) documentaries. This is not my coming out post. I have nothing to come out of! The transition I'm refering to is my career transition.

@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Making The Transition Part 3
+subtitle: Answering one last questions asked after Making The Transition part 2
+categories: Technology
+tags: 'Career, Technology'
 ---
 Ok wow! Really didn't expect my career change post to resonate with people. I guess it's something everyone can relate to, as it's not just a story of changing careers but a story of making a life change.
 
-The amazing Nandhini (one of the founders of [WHFNP](http://womenhackfornonprofits.com/)) just asked me an important question and I wanted to share the answer with the world.
+Nandhini (one of the founders of [WHFNP](http://womenhackfornonprofits.com/)) just asked me an important question and I wanted to share the answer with the world.
 
 **How did you keep your motivation when you know the job was rotting you?**
 
