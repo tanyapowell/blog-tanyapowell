@@ -11,6 +11,7 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
+		width: 60%;
 
 		img {
 			border-radius: _size(border-radius);
@@ -22,7 +23,7 @@
 			max-width: 40%;
 
 			img {
-				width: 100%;
+				width: 60%;
 			}
 		}
 
@@ -41,20 +42,20 @@
 		&.fit {
 			display: block;
 			margin: 0 0 _size(element-margin) 0;
-			width: 100%;
+			width: 60%;
 
 			img {
-				width: 100%;
+				width: 60%;
 			}
 		}
 
 		&.main {
 			display: block;
 			margin: 0 0 (_size(element-margin) * 1.5) 0;
-			width: 100%;
+			width: 60%;
 
 			img {
-				width: 100%;
+				width: 60%;
 			}
 
 			@include breakpoint(small) {

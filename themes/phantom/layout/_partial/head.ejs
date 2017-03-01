@@ -53,6 +53,10 @@
             if (page.year) title.push(__('archive_b', page.year + (page.month ? '/' + page.month : '')));
             else title.push(__('archive_a'));
         }
+        if (page.archive && page.category == 'Technology') {
+            if (page.year) title.push(__('archive_b', page.year + (page.month ? '/' + page.month : '')));
+            else title.push(__('archive_a'));
+        }
         title.push(config.title);
     %>
     <title><%= title.join(' - ') %></title>
