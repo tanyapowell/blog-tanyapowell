@@ -7,7 +7,7 @@
 	.logo {
 		display: block;
 		border-bottom: 0;
-		color: inherit;
+		color: _palette(accent5);
 		font-weight: _font(weight-bold);
 		letter-spacing: _font(letter-spacing);
 		margin: 0 0 (_size(element-margin) * 1.25) 0;
