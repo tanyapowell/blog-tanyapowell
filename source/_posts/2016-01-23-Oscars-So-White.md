@@ -1,6 +1,8 @@
 ---
-layout: post
-title: OscarsSoWhite
+title: Oscars So White
+subtitle: Lack of diversity is EVERYWHERE
+categories: Black Girl Magic
+tags: 'Black girl magic'
 ---
 Not sure if I told you before, but I used to work in television. Since leaving that world my focus has been on all things client-server side, so have been paying very little attention to the world of entertainment (apart from the [Real Housewives of Atlanta](http://www.bravotv.com/the-real-housewives-of-atlanta)...don't judge). On January 14th I happened to go on [twitter](https://twitter.com/tanya_powell) to see what was trending and saw #OscarsSoWhite. My reaction was simply _"erm...ok"_. Was I surprised? My good god NO! But here's my initial question...why do we only talk this once a year? Movies come out throughout the 12 months.
 

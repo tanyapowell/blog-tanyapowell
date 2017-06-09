@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Those who can...become a mentor
+subtitle: Find out what happened when you let me mentor a 12 year old to become a software developer
+categories: Technology
+tags: Mentoring, Technology, Hackathon
 ---
 **Confidence**. Something that I work on daily.
 

@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Let's make a Family Tree
+subtitle: Making a quick family tree with D3.js
+categories: Technology
+tags: CodePen, Javascript
 ---
 Was talking to one of my colleagues in a different team after 5pm and he said he was doing some work with [Ext JS](https://www.sencha.com/products/extjs/). Like any self respecting engineeer who had no idea what the person talking to them was talking about, I asked my dear Uncle Google. One of their selling points is ***Ext JS features hundreds of high-performance UI widgets***, now please don't question this, but this selling point made me think *"I'm going to go home and make a Family Tree web app"*. Don't you love it when an idea just pops into your head!
 

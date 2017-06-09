@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Recent Fashion Technology Blog Posts
+subtitle: Links to two Fashion Tech posts that I recently wrote for different publications
+categories: Technology
+tags: 'Fashion, Technology'
 ---
 Fashion Technology FASCINATES me! It combines two of my loves. In September I attended a Fashion Technology Startup Wekend and my team came second place (you can read about my team's success in this [medium](https://medium.com) post by my teammate [Nafisa](https://twitter.com/Nafisa_B_) - [54 hours of FashTech](https://medium.com/@Nafisa_B/54-hours-of-fashtech-28a98b7f8cd0) - she writes so eloquently <i class="fa fa-heart"></i>).
 
