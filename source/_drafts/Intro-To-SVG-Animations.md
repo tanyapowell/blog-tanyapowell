@@ -1,8 +1,8 @@
 ---
 title: Gentle Intro to SVG Animations
-categories: technology
+categories: Technology
 description: I'm a description, fool
-tags:
+tags: test
 featured_image: /images/barca1.jpg
 ---
 
