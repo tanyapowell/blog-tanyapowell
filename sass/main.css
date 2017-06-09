@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Oxygen");
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
 /*
@@ -1228,10 +1229,9 @@ body {
     -ms-transition: none !important;
     transition: none !important; }
 
-/* Type */
 body, input, select, textarea {
   color: #585858;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-family: "Oxygen", sans-serif;
   font-size: 16pt;
   font-weight: 300;
   line-height: 1.75; }
@@ -1248,7 +1248,7 @@ a {
   -ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
   transition: border-bottom-color 0.2s ease, color 0.2s ease;
   text-decoration: none;
-  color: #585858;
+  color: #0eb7da;
   border-bottom: dotted 1px rgba(88, 88, 88, 0.5); }
   a:hover {
     border-bottom-color: transparent;
@@ -1261,18 +1261,23 @@ em, i {
   font-style: italic; }
 
 p {
+  font-size: 1.15em;
   margin: 0 0 2em 0; }
 
 h1 {
+  font-family: "Oxygen", sans-serif;
   font-size: 2.75em;
+  color: #0eb7da;
   font-weight: 700;
   line-height: 1.3;
   margin: 0 0 1em 0;
-  letter-spacing: -0.035em; }
+  letter-spacing: -0.035em;
+  text-transform: uppercase; }
   h1 a {
     color: inherit; }
   h1.title {
-    margin-bottom: 0.2em; }
+    margin-bottom: 1em;
+    margin-top: 1em; }
   @media screen and (max-width: 736px) {
     h1 {
       font-size: 2em;
@@ -1282,6 +1287,8 @@ h1 {
       font-size: 1.75em; } }
 
 h2, h3, h4, h5, h6 {
+  font-family: "Oxygen", sans-serif;
+  color: #0eb7da;
   font-weight: 900;
   line-height: 1.5;
   margin: 0 0 2em 0;
@@ -1289,24 +1296,27 @@ h2, h3, h4, h5, h6 {
   letter-spacing: 0.35em; }
   h2 a, h3 a, h4 a, h5 a, h6 a {
     color: inherit; }
+  h2.tiles-title, h3.tiles-title, h4.tiles-title, h5.tiles-title, h6.tiles-title {
+    color: white; }
 
 h2 {
-  font-size: 1.1em; }
+  font-size: 1.75em; }
 
 h3 {
-  font-size: 1em; }
+  font-size: 1.5em; }
 
 h4 {
-  font-size: 0.8em; }
+  font-size: 1.25em; }
 
 h5 {
-  font-size: 0.8em; }
+  font-size: 1em; }
 
 h6 {
   font-size: 0.8em; }
 
 div.meta {
-  margin-bottom: 3em; }
+  font-weight: bold;
+  margin-bottom: 1.5em; }
 
 @media screen and (max-width: 980px) {
   h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
@@ -2379,14 +2389,15 @@ input[type="radio"] + label:before {
   border-radius: 4px;
   border: 0;
   display: inline-block;
-  position: relative; }
+  position: relative;
+  width: 60%; }
   .image img {
     border-radius: 4px;
     display: block; }
   .image.left, .image.right {
     max-width: 40%; }
     .image.left img, .image.right img {
-      width: 100%; }
+      width: 60%; }
   .image.left {
     float: left;
     padding: 0 1.5em 1em 0;
@@ -2398,15 +2409,15 @@ input[type="radio"] + label:before {
   .image.fit {
     display: block;
     margin: 0 0 2em 0;
-    width: 100%; }
+    width: 60%; }
     .image.fit img {
-      width: 100%; }
+      width: 60%; }
   .image.main {
     display: block;
     margin: 0 0 3em 0;
-    width: 100%; }
+    width: 60%; }
     .image.main img {
-      width: 100%; }
+      width: 60%; }
     @media screen and (max-width: 736px) {
       .image.main {
         margin: 0 0 2em 0; } }
@@ -2798,7 +2809,6 @@ button,
         padding-right: 20px;
         width: 100%; }
 
-/* Header */
 #header {
   padding: 8em 0 0.1em 0 ;
   background-image: url("/images/ux3.jpg");
@@ -2807,7 +2817,7 @@ button,
   #header .logo {
     display: block;
     border-bottom: 0;
-    color: inherit;
+    color: #ae85ca;
     font-weight: 900;
     letter-spacing: 0.35em;
     margin: 0 0 2.5em 0;
@@ -3056,6 +3066,8 @@ body.is-menu-visible #menu {
 #footer {
   padding: 5em 0 6em 0 ;
   background-color: #f6f6f6; }
+  #footer h2 {
+    font-size: 0.8em; }
   #footer > .inner {
     display: -moz-flex;
     display: -webkit-flex;
@@ -3148,13 +3160,14 @@ body.is-menu-visible #menu {
 /* Wrapper */
 #wrapper > * > .inner {
   width: 100%;
-  max-width: 68em;
+  max-width: 58em;
   margin: 0 auto;
   padding: 0 2.5em; }
   @media screen and (max-width: 736px) {
     #wrapper > * > .inner {
       padding: 0 1.25em; } }
   #wrapper > * > .inner .tags {
+    font-weight: bold;
     margin: 50px 0; }
     #wrapper > * > .inner .tags a.button {
       margin: 0 15px 0 0; }

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.tanyapowell.co.uk/"/>
-  <updated>2017-02-22T23:57:14.000Z</updated>
+  <updated>2017-06-09T20:41:59.000Z</updated>
   <id>http://blog.tanyapowell.co.uk/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://blog.tanyapowell.co.uk/2017/02/20/Playing-with-GSAP/"/>
     <id>http://blog.tanyapowell.co.uk/2017/02/20/Playing-with-GSAP/</id>
     <published>2017-02-20T19:54:02.000Z</published>
-    <updated>2017-02-22T23:57:14.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -31,7 +31,7 @@
       <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
     
     
-      <category term="SVG, Animation" scheme="http://blog.tanyapowell.co.uk/tags/SVG-Animation/"/>
+      <category term="SVG, Animation, Technology" scheme="http://blog.tanyapowell.co.uk/tags/SVG-Animation-Technology/"/>
     
   </entry>
   
@@ -40,7 +40,7 @@
     <link href="http://blog.tanyapowell.co.uk/2016/12/31/Goals/"/>
     <id>http://blog.tanyapowell.co.uk/2016/12/31/Goals/</id>
     <published>2016-12-31T00:00:00.000Z</published>
-    <updated>2017-02-06T19:52:07.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -48,6 +48,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="Technology, Goals" scheme="http://blog.tanyapowell.co.uk/tags/Technology-Goals/"/>
     
   </entry>
   
@@ -56,7 +60,7 @@
     <link href="http://blog.tanyapowell.co.uk/2016/11/02/PWA/"/>
     <id>http://blog.tanyapowell.co.uk/2016/11/02/PWA/</id>
     <published>2016-11-02T00:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -64,6 +68,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="Technology, Offline, Web Apps, Future" scheme="http://blog.tanyapowell.co.uk/tags/Technology-Offline-Web-Apps-Future/"/>
     
   </entry>
   
@@ -72,7 +80,7 @@
     <link href="http://blog.tanyapowell.co.uk/2016/05/26/Urban-Exposure/"/>
     <id>http://blog.tanyapowell.co.uk/2016/05/26/Urban-Exposure/</id>
     <published>2016-05-25T23:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -80,22 +88,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Live - How to Blog with WHFNP</title>
-    <link href="http://blog.tanyapowell.co.uk/2016/04/27/How-To-Blog-With-WHFNP/"/>
-    <id>http://blog.tanyapowell.co.uk/2016/04/27/How-To-Blog-With-WHFNP/</id>
-    <published>2016-04-26T23:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
     
-    <summary type="html">
-    
-      &lt;p&gt;Last week a few of us who volunteer at &lt;a href=&quot;http://www.womenhackfornonprofits.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Women Hack for Non
-    
-    </summary>
-    
+      <category term="Technology, Tech while Black" scheme="http://blog.tanyapowell.co.uk/tags/Technology-Tech-while-Black/"/>
     
   </entry>
   
@@ -104,7 +100,7 @@
     <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/"/>
     <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/</id>
     <published>2016-04-24T23:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -112,6 +108,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="Technology, Hackathon" scheme="http://blog.tanyapowell.co.uk/tags/Technology-Hackathon/"/>
     
   </entry>
   
@@ -120,7 +120,7 @@
     <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/"/>
     <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/</id>
     <published>2016-04-24T23:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -128,6 +128,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="Technology, Hackathon" scheme="http://blog.tanyapowell.co.uk/tags/Technology-Hackathon/"/>
     
   </entry>
   
@@ -136,7 +140,7 @@
     <link href="http://blog.tanyapowell.co.uk/2016/04/09/Empowerhacking-A-Story/"/>
     <id>http://blog.tanyapowell.co.uk/2016/04/09/Empowerhacking-A-Story/</id>
     <published>2016-04-08T23:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -144,6 +148,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="Technology, Hackathon" scheme="http://blog.tanyapowell.co.uk/tags/Technology-Hackathon/"/>
     
   </entry>
   
@@ -152,7 +160,7 @@
     <link href="http://blog.tanyapowell.co.uk/2016/03/17/Be-A-Mentor/"/>
     <id>http://blog.tanyapowell.co.uk/2016/03/17/Be-A-Mentor/</id>
     <published>2016-03-17T00:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -161,6 +169,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="Mentoring, Technology, Hackathon" scheme="http://blog.tanyapowell.co.uk/tags/Mentoring-Technology-Hackathon/"/>
     
   </entry>
   
@@ -169,7 +181,7 @@
     <link href="http://blog.tanyapowell.co.uk/2016/02/02/Family-Tree/"/>
     <id>http://blog.tanyapowell.co.uk/2016/02/02/Family-Tree/</id>
     <published>2016-02-02T00:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -177,15 +189,19 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="CodePen, Javascript" scheme="http://blog.tanyapowell.co.uk/tags/CodePen-Javascript/"/>
     
   </entry>
   
   <entry>
-    <title>OscarsSoWhite</title>
+    <title>Oscars So White</title>
     <link href="http://blog.tanyapowell.co.uk/2016/01/23/Oscars-So-White/"/>
     <id>http://blog.tanyapowell.co.uk/2016/01/23/Oscars-So-White/</id>
     <published>2016-01-23T00:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -193,6 +209,10 @@
     
     </summary>
     
+      <category term="Black Girl Magic" scheme="http://blog.tanyapowell.co.uk/categories/Black-Girl-Magic/"/>
+    
+    
+      <category term="Black girl magic" scheme="http://blog.tanyapowell.co.uk/tags/Black-girl-magic/"/>
     
   </entry>
   
@@ -201,7 +221,7 @@
     <link href="http://blog.tanyapowell.co.uk/2015/11/30/Messy-Hair/"/>
     <id>http://blog.tanyapowell.co.uk/2015/11/30/Messy-Hair/</id>
     <published>2015-11-30T00:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -209,6 +229,10 @@
     
     </summary>
     
+      <category term="Black Girl Magic" scheme="http://blog.tanyapowell.co.uk/categories/Black-Girl-Magic/"/>
+    
+    
+      <category term="Black girl magic, Hair" scheme="http://blog.tanyapowell.co.uk/tags/Black-girl-magic-Hair/"/>
     
   </entry>
   
@@ -217,7 +241,7 @@
     <link href="http://blog.tanyapowell.co.uk/2015/11/29/Jealous-Females/"/>
     <id>http://blog.tanyapowell.co.uk/2015/11/29/Jealous-Females/</id>
     <published>2015-11-29T00:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -225,6 +249,10 @@
     
     </summary>
     
+      <category term="Black Girl Magic" scheme="http://blog.tanyapowell.co.uk/categories/Black-Girl-Magic/"/>
+    
+    
+      <category term="Black girl magic" scheme="http://blog.tanyapowell.co.uk/tags/Black-girl-magic/"/>
     
   </entry>
   
@@ -233,7 +261,7 @@
     <link href="http://blog.tanyapowell.co.uk/2015/11/16/Making-The-Transition-Part3/"/>
     <id>http://blog.tanyapowell.co.uk/2015/11/16/Making-The-Transition-Part3/</id>
     <published>2015-11-16T00:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -241,6 +269,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="Career, Technology" scheme="http://blog.tanyapowell.co.uk/tags/Career-Technology/"/>
     
   </entry>
   
@@ -249,7 +281,7 @@
     <link href="http://blog.tanyapowell.co.uk/2015/11/15/Making-The-Transition-Part2/"/>
     <id>http://blog.tanyapowell.co.uk/2015/11/15/Making-The-Transition-Part2/</id>
     <published>2015-11-15T00:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -257,6 +289,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="Career, Technology" scheme="http://blog.tanyapowell.co.uk/tags/Career-Technology/"/>
     
   </entry>
   
@@ -265,7 +301,7 @@
     <link href="http://blog.tanyapowell.co.uk/2015/11/14/Digital-Marketing-Advice/"/>
     <id>http://blog.tanyapowell.co.uk/2015/11/14/Digital-Marketing-Advice/</id>
     <published>2015-11-14T00:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -273,6 +309,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="Technology, Marketing" scheme="http://blog.tanyapowell.co.uk/tags/Technology-Marketing/"/>
     
   </entry>
   
@@ -281,7 +321,7 @@
     <link href="http://blog.tanyapowell.co.uk/2015/11/08/Recent-Fash-Tech-Posts/"/>
     <id>http://blog.tanyapowell.co.uk/2015/11/08/Recent-Fash-Tech-Posts/</id>
     <published>2015-11-08T00:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -289,6 +329,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="Fashion, Technology" scheme="http://blog.tanyapowell.co.uk/tags/Fashion-Technology/"/>
     
   </entry>
   
@@ -297,7 +341,7 @@
     <link href="http://blog.tanyapowell.co.uk/2015/11/07/Making-The-Transition/"/>
     <id>http://blog.tanyapowell.co.uk/2015/11/07/Making-The-Transition/</id>
     <published>2015-11-07T00:00:00.000Z</published>
-    <updated>2016-12-31T07:44:44.000Z</updated>
+    <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
@@ -305,6 +349,10 @@
     
     </summary>
     
+      <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
+    
+    
+      <category term="Career, Technology" scheme="http://blog.tanyapowell.co.uk/tags/Career-Technology/"/>
     
   </entry>
   
