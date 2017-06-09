@@ -9,6 +9,10 @@
 	#footer {
 		$gutter: _size(gutter);
 
+		h2{
+			font-size: 0.8em;
+		}
+
 		@include padding(5em, 0, (0, 0, 3em, 0));
 		background-color: _palette(bg-alt);
 
