@@ -27,6 +27,8 @@
 
     <!--Open Graph Title-->
     
+        <meta property="og:title" content="Back To Basics With Javascript30"/>
+    
 
     <!--Open Graph Site Name-->
     <meta property="og:site_name" content="The musings of Tanya Powell"/>
@@ -38,7 +40,7 @@
 
     <!-- Title -->
     
-    <title>Career, Technology - The musings of Tanya Powell</title>
+    <title>Back To Basics With Javascript30 - The musings of Tanya Powell</title>
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/sass/main.css">
@@ -131,31 +133,59 @@
                 <!-- Main Content -->
                 
 
-<section class="archives">
+    <h1 class="title">Back To Basics With Javascript30</h1>
+    <div class="meta">
+      <i class="fa fa-calendar" aria-hidden="true"></i>
+        2017-06-10 ---
+        <!-- How long will it take to read -->
+        <i class="fa fa-clock-o" aria-hidden="true"></i>
+        3 min ---
+        <i class="fa fa-tag" aria-hidden="true"></i>
+
+Technology
+
+    </div>
+
+
+
+<!-- Gallery -->
+
+
+<!-- Feature Image -->
+
+
+<!-- Content -->
+<center><br>  <figure><br>    <img src="https://cdn-images-1.medium.com/max/800/1*C5JB4zEpTQgt-VZjUodRDA.png" alt="Javascript30 Homepage"><br>    <figcaption>Javascript30 Homepage<br>  </figcaption></figure><br></center>
+
+<p>I’ve been slacking with doing code at home for <em><em>MONTHS</em></em>. No excuse for it, just haven’t been doing it. Recently I’ve had a kick up the bum and decided to follow <a href="https://javascript30.com/" target="_blank" rel="external">Wes Brown’s Javascript30</a> to ease myself back in and it’s free, which is my absolute favourite price.</p>
+<p>The aim of Javascript30 is to get developers and designers more comfortable with Javascript fundamentals and working with the DOM <em><em>without</em></em> using a library.</p>
+<h5 id="No-library-but…BUT…"><a href="#No-library-but…BUT…" class="headerlink" title="No library, but…BUT…"></a>No library, but…BUT…</h5><p>Don’t panic! I’ve been using libraries and frameworks for a while now and quite frankly, I’m probably too reliant on them. Honestly, vanilla Javascript (ES6) is not that bad and sometimes you just need to keep it simple stupid.</p>
+<h5 id="So-how’s-it-going-so-far"><a href="#So-how’s-it-going-so-far" class="headerlink" title="So how’s it going so far?"></a>So how’s it going so far?</h5><center><br>  <figure><br>    <img src="https://s3.amazonaws.com/js30-cdn/small0.jpg" alt="JS Drumkit"><br>    <figcaption>JS Drumkit<br>  </figcaption></figure><br></center>
+
+<p>I’ve just completed day one and created a drum kit (just want to say sorry to my neighbours for getting a bit too excited and playing with my newly built toy late into a Friday night 😜).</p>
+<p>Now if the thought of building a Drumkit is intimidating, especially without a library, let me reassure you, it’s not that scary. In the end I wrote a grand total of 20 lines of Javascript. That’s including a 10 line <code>playSound()</code> function (see below).</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">function playSound(e) &#123;</div><div class="line">  const audio = document.querySelector(`audio[data-key=&apos;$&#123;e.keyCode&#125;&apos;]`);</div><div class="line">  const key = document.querySelector(`.key[data-key=&apos;$&#123;e.keyCode&#125;&apos;]`);</div><div class="line"></div><div class="line">  if(!audio) return; // will stop the function from running altogether if there is no audio for that key</div><div class="line"></div><div class="line">  key.classList.add(&apos;playing&apos;);</div><div class="line">  audio.currentTime = 0; // rewind to beginning</div><div class="line">  audio.play();</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>Surprisingly I’d never used or even heard of the HTML5 <code>&lt;audio&gt;</code> element before and I have to say I love it! Especially after spending a day at work trying to figure out a sound engine. Doesn’t <code>HTML5</code> just make the world a better place ☺️.</p>
+<p>For day 2 we get to build a CSS and JS clock, maybe I’ll share it with you here. Or maybe you could join me and do Javascript30 too.</p>
+<p>You can find my Drumkit <a href="http://tanyapowell.co.uk/drumkit/" target="_blank" rel="external">here</a> (it’s only on desktop btw) if you fancy a play. If you’d like to tell me about more <code>HTML5</code> elements I’m missing out on just <a href="https://twitter.com/tanya_powell" target="_blank" rel="external">tweet me</a>.</p>
+
+
+<!-- Tags -->
+
+
+
+<div class="tags">
+    <i class="fa fa-tags" aria-hidden="true"></i>
+    Tags: <a href="/tags/Technology-Javascript/" class="button small">Technology, Javascript</a>
+</div>
+
+
+<!-- Comments -->
+<div>
     
-        <div class="archive-title">Career, Technology</div>
-    
-    <ul class="archive-list">
-        
-            <li>
-    <a href="/2015/11/07/Making-The-Transition/">Making The Transition</a>
-</li>
-
-        
-            <li>
-    <a href="/2015/11/15/Making-The-Transition-Part2/">Making The Transition Part 2</a>
-</li>
-
-        
-            <li>
-    <a href="/2015/11/16/Making-The-Transition-Part3/">Making The Transition Part 3</a>
-</li>
-
-        
-    </ul>
-</section><!-- end main -->
 
 
+</div>
 
 
             </div>
