@@ -6,7 +6,9 @@ tags: 'Black girl magic'
 ---
 Not sure if I told you before, but I used to work in television. Since leaving that world my focus has been on all things client-server side, so have been paying very little attention to the world of entertainment (apart from the [Real Housewives of Atlanta](http://www.bravotv.com/the-real-housewives-of-atlanta)...don't judge). On January 14th I happened to go on [twitter](https://twitter.com/tanya_powell) to see what was trending and saw #OscarsSoWhite. My reaction was simply _"erm...ok"_. Was I surprised? My good god NO! But here's my initial question...why do we only talk this once a year? Movies come out throughout the 12 months.
 
-![](http://cdn.snarkfood.com/wp-content/uploads/2016/01/netzreporter-oscarssowhite-100-_v-standard644_eb9b19-470x264.jpg)
+<center>
+  <img src="http://cdn.snarkfood.com/wp-content/uploads/2016/01/netzreporter-oscarssowhite-100-_v-standard644_eb9b19-470x264.jpg"/>
+</center>
 
 I'm an uncompromising proud black woman, however I don't think this is a **_"black thing"_**, I think this is a minority issue (which is actually a joke, because collectively us minorities are the majority). If you are not caucasian then you are dismissed. Why Blacktors like Jada Pinkett-Smith has decided that this year she's going to boycott is beyond me, they should've been boycotting for years! This treatment is not new. The sad truth is us minorities have to work harder than our counterparts to be counted and considered, and this is not just in the world of entertainment this is across all industries.
 

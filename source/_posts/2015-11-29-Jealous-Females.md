@@ -1,6 +1,6 @@
 ---
 title: Jealous Females
-subtitle: Dealing with jealously 
+subtitle: Dealing with jealously
 categories: Black Girl Magic
 tags: 'Black girl magic'
 ---
@@ -11,7 +11,11 @@ I grew up on a council estate, raised by two immigrant parents, got a brother wh
 I was nominated to feature in a newsletter (that I work on) for women in tech as the nominator thought the story of my career transition could be inspiring. I was shocked as it came from nowhere and replied with an *"erm..."*. Sometimes you need a humble brag and I've now realised it is a story that can inspire others. The so-called editor replied with a laughing emoji. I know better than to react to that so I sat back and waited to see what happened next. The nominator then further explained why she nominated
 me and the so-called editor responded with _"actually I want to feature person X because of amazing blog post about us"_.
 
-![](http://emojipedia-us.s3.amazonaws.com/cache/17/47/17474d3a52fd7efdada7b5896b5c5906.png)
+<center>
+  <figure>
+    <img src="http://emojipedia-us.s3.amazonaws.com/cache/17/47/17474d3a52fd7efdada7b5896b5c5906.png"/>
+  </figure>
+</center>
 
 Ok I had to Google person X's _'amazing blog post'_ it could be some good stuff. I read the post and yes it was good, but it wasn't about us, we were mentioned at the tail end of a sentence. I then began reflecting on all the times she was rude to me or tried to micro manage me and it hit me, she's jealous and doesn't want me to get more attention to her. Pathetic I know, but true.
 

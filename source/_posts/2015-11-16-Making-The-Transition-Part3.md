@@ -18,7 +18,12 @@ I had to remind myself everyday
 
 I was constantly on websites dissecting their functionality and thinking _"wish I could do that"_ knowing that if I stayed where I was it was highly unlikely to happen. As my confidence began growing I realised _"I think I can make that"_. I'm slowly getting to the point where can say _"I'm going to make that"_ and hopefully as it grows more I'll one day say _"I can make that better"_. I can't allow myself to become complacent ever again <i class="fa fa-smile-o"></i>
 
- ![complacency](https://d11lsn3axbj16p.cloudfront.net/1447605438-a4856f1e-50b3.jpg)
+<center>
+  <figure>
+    <img src="https://d11lsn3axbj16p.cloudfront.net/1447605438-a4856f1e-50b3.jpg" alt="Complacency"/>
+    <figcaption>Complacency</figurecaption>
+  </figure>
+</center>
 
  ---
  Hope that helped Nandhini <i class="fa fa-smile-o"></i>

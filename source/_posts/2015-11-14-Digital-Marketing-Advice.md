@@ -6,7 +6,12 @@ tags: 'Technology, Marketing'
 ---
 Twice this week I've been asked by friends for advice for improving their social media presence for their blogs. Both times I've paused and thought *"what do I know I'm a software engineer?* **And** *my social media is a mess"*. This slight doubt in my mind doesn't stop me from giving advice and pointing them in a direction they could find useful.
 
-![Some Worthy Advice From Me To You](http://jakevanderark.files.wordpress.com/2012/08/w-c-fields.png)
+<center>
+  <figure>
+    <img src="http://jakevanderark.files.wordpress.com/2012/08/w-c-fields.png" alt="Some Worthy Advice From Me To You"/>
+    <figcaption>Some Worthy Advice From Me To You</figurecaption>
+  </figure>
+</center>
 
 Rather than saying what tools could help them (I'm a technologist and could babble about technology from now until the end of time) I ask them a simple question **"what content would engage YOU?"**
 

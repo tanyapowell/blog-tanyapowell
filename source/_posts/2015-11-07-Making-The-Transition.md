@@ -7,7 +7,11 @@ tags: 'Career, Technology'
 
 So the title could be a teeny weeny bit misleading, especially if you're anything like me and spend far too much time following the [Caitlyn Jenner](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=caitlyn+jenner+transition) transition from being Bruce or watching random [BBC Three](http://www.bbc.co.uk/bbcthree) documentaries. This is not my coming out post. I have nothing to come out of! The transition I'm refering to is my career transition.
 
-![Career Change](http://www.personalbrandingblog.com/wp-content/uploads/2014/01/shutterstock_160935986-300x199.jpg)
+<center>
+  <figure>
+    <img src="http://www.personalbrandingblog.com/wp-content/uploads/2014/01/shutterstock_160935986-300x199.jpg"/>
+  </figure>
+</center>
 
 This chapter of my life started in 2012. I was working as a Presentation Scheduler on [Alibi](http://alibi.uktv.co.uk/) making sure all the commercial breaks, sponsorship, branding and most importantly the programmes were in the correct order and duration. I LOVE my old colleagues but the job was monotonous and my brain started to rot. At this time I was encouraged to change careers and start using my intelligence.
 

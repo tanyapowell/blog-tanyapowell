@@ -1,13 +1,18 @@
 ---
 title: The Intersections of Tech Series | Urban Exposure
-subtitle: 
+subtitle:
 categories: Technology
 tags: Technology, Tech while Black
 ---
 
 This morning I bumped into a woman (a few years older than me), that I grew up with and haven't seen since I was about 12 years old. After exchanging a few pleasantries - how's mum? how's dad? etc - she then asked what I do for a living. When I told her she had one of the most confused looks I've ever seen.
 
-![](http://www.relatably.com/m/img/confused-memes/59582971.jpg)
+<center>
+  <figure>
+    <img src="http://www.relatably.com/m/img/confused-memes/59582971.jpg" alt="Confused Meme"/>
+    <figcaption>Exactly how I looked during our exchange</figurecaption>
+  </figure>
+</center>
 
 **Me**: “Why have you got such a confused look on your face?”
 

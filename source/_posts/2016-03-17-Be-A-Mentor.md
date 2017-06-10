@@ -69,7 +69,12 @@ The day officially ended at 5pm and we had a solid idea. My day didn't end there
 
 This day again began at 10am, but we knew we had a deadline. At 3pm the final pitches to the judges will begin and at 10am we had no code in our [repo](https://github.com/AcornHack/forget-me-not), we haven't spoken to any business people to help create a pitch and we have nothing to present. No need to panic...it's a hackathon and you always crunch.
 
-![Forgetmenot Emulation](https://s3-eu-west-1.amazonaws.com/tanyapowell/forgetmenot_emulation.jpg)
+<center>
+  <figure>
+    <img width="50%" src="https://s3-eu-west-1.amazonaws.com/tanyapowell/forgetmenot_emulation.jpg" alt="Forgetmenot Emulation"/>
+    <figcaption>Forgetmenot Emulation</figurecaption>
+  </figure>
+</center>
 
 By 3pm there was a working prototype, a well-researched presentation and a wiki in the GitHub repo. All that was left was to pitch to the judges.
 
