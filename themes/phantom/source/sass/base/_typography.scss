@@ -58,8 +58,10 @@ h1 {
 	}
 
 	&.title {
+		border-bottom: _palette(border);
 		margin-bottom: 1em;
 		margin-top: 1em;
+		text-align: center;
 	}
 
 	@include breakpoint(small) {
@@ -112,8 +114,10 @@ h6 {
 }
 
 div.meta {
+	border-bottom: _palette(border);
 	font-weight: bold;
 	margin-bottom: 1.5em;
+	text-align: center;
 }
 
 @include breakpoint(medium) {

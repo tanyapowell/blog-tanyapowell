@@ -1339,7 +1339,8 @@ h2, h3, h4, h5, h6 {
   h2 a, h3 a, h4 a, h5 a, h6 a {
     color: inherit; }
   h2.tiles-title, h3.tiles-title, h4.tiles-title, h5.tiles-title, h6.tiles-title {
-    color: white; }
+    color: white;
+    font-size: .8em; }
 
 h2 {
   font-size: 1.75em; }

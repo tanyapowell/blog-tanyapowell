@@ -52,3 +52,17 @@ github_url: https://github.com/tanyapowell
 # fivehundredpx_url: https://500px.com/
 email_url: mailto:hello@tanyapowell.co.uk
 rss_url: atom.xml/rss2.xml
+
+# Configuration for hexo-image-sizes
+image_sizes:
+  pattern: !!js/regexp /\.(gif|jpg|jpeg|png)$/i
+  profiles:
+    body:
+      width: 500 // height will adjust to preserve aspect ratio
+    thumbnail:
+      width: 100 // Image will be cropped to a square
+      height: 100
+    huge:
+      height: 1000
+      allowEnlargement: true
+  defaultProfile: body

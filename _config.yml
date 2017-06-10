@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Personal Blog of Tanya Powell
+title: The musings of Tanya Powell
 subtitle:
 description: This is definitely not just an average post
 author: Tanya Powell
@@ -88,3 +88,17 @@ offline:
   - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff}
   stripPrefix: public
   verbose: true
+
+# Configuration for hexo-image-sizes
+image_sizes:
+  pattern: !!js/regexp /\.(gif|jpg|jpeg|png)$/i
+  profiles:
+    body:
+      width: 500 // height will adjust to preserve aspect ratio
+    thumbnail:
+      width: 100 // Image will be cropped to a square
+      height: 100
+    huge:
+      height: 1000
+      allowEnlargement: true
+  defaultProfile: body
