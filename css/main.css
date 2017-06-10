@@ -1318,8 +1318,10 @@ h1 {
   h1 a {
     color: inherit; }
   h1.title {
+    border-bottom: #c9c9c9;
     margin-bottom: 1em;
-    margin-top: 1em; }
+    margin-top: 1em;
+    text-align: center; }
   @media screen and (max-width: 736px) {
     h1 {
       font-size: 2em;
@@ -1358,8 +1360,10 @@ h6 {
   font-size: 0.8em; }
 
 div.meta {
+  border-bottom: #c9c9c9;
   font-weight: bold;
-  margin-bottom: 1.5em; }
+  margin-bottom: 1.5em;
+  text-align: center; }
 
 @media screen and (max-width: 980px) {
   h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
@@ -2853,6 +2857,7 @@ button,
     display: block;
     border-bottom: 0;
     color: #ae85ca;
+    font-size: 1.5em;
     font-weight: 900;
     letter-spacing: 0.35em;
     margin: 0 0 2.5em 0;

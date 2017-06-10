@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Personal Blog of Tanya Powell</title>
+  <title>The musings of Tanya Powell</title>
   
   <link href="/atom.xml" rel="self"/>
   
@@ -60,11 +60,11 @@
     <link href="http://blog.tanyapowell.co.uk/2016/11/02/PWA/"/>
     <id>http://blog.tanyapowell.co.uk/2016/11/02/PWA/</id>
     <published>2016-11-02T00:00:00.000Z</published>
-    <updated>2017-06-09T20:41:59.000Z</updated>
+    <updated>2017-06-10T00:42:12.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Last week I attended &lt;a href=&quot;http://www.deanhume.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Dean Hume’s&lt;/a&gt; Progressive Web Apps for beginners
+      &lt;center&gt;&lt;br&gt;  &lt;figure&gt;&lt;br&gt;    &lt;img width=&quot;50%&quot; src=&quot;http://blog.ionic.io/wp-content/uploads/2016/05/what-is-pwa-img.png&quot;&gt;&lt;br&gt;    &lt;figcaption
     
     </summary>
     
@@ -96,15 +96,15 @@
   </entry>
   
   <entry>
-    <title>Empowerhack-ing A Story Part 3</title>
-    <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/"/>
-    <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/</id>
+    <title>Empowerhack-ing A Story Part 2</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/</id>
     <published>2016-04-24T23:00:00.000Z</published>
     <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;So much happened over the &lt;a href=&quot;http://empowerhack.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EmpowerHack&lt;/a&gt; LDN weekend that I couldn’t fit
+      &lt;p&gt;How could I leave you all hanging? Just waiting with anticipation to find out how the rest of the &lt;a href=&quot;http://empowerhack.com&quot; target
     
     </summary>
     
@@ -116,15 +116,15 @@
   </entry>
   
   <entry>
-    <title>Empowerhack-ing A Story Part 2</title>
-    <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/"/>
-    <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/</id>
+    <title>Empowerhack-ing A Story Part 3</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/</id>
     <published>2016-04-24T23:00:00.000Z</published>
     <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;How could I leave you all hanging? Just waiting with anticipation to find out how the rest of the &lt;a href=&quot;http://empowerhack.com&quot; target
+      &lt;p&gt;So much happened over the &lt;a href=&quot;http://empowerhack.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EmpowerHack&lt;/a&gt; LDN weekend that I couldn’t fit
     
     </summary>
     

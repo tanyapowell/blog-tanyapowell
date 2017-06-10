@@ -31,7 +31,7 @@
     
 
     <!--Open Graph Site Name-->
-    <meta property="og:site_name" content="Personal Blog of Tanya Powell"/>
+    <meta property="og:site_name" content="The musings of Tanya Powell"/>
 
     <!--Page Cover-->
     
@@ -40,7 +40,7 @@
 
     <!-- Title -->
     
-    <title>Beginner&#39;s Guide to Progressive Web Apps - Personal Blog of Tanya Powell</title>
+    <title>Beginner&#39;s Guide to Progressive Web Apps - The musings of Tanya Powell</title>
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/sass/main.css">
@@ -89,7 +89,7 @@
 
         <!-- Logo -->
         <a href="/" class="logo">
-            <span class="symbol"><img src="https://s3-eu-west-1.amazonaws.com/tanyapowell/6105146987_93f5537c01_m.jpg" alt="" /></span><span class="title">Personal Blog of Tanya Powell</span>
+            <span class="symbol"><img src="https://s3-eu-west-1.amazonaws.com/tanyapowell/6105146987_93f5537c01_m.jpg" alt="" /></span><span class="title">The musings of Tanya Powell</span>
         </a>
 
         <!-- Nav -->
@@ -155,8 +155,10 @@ Technology
 
 
 <!-- Content -->
+<center><br>  <figure><br>    <img width="50%" src="http://blog.ionic.io/wp-content/uploads/2016/05/what-is-pwa-img.png"><br>    <figcaption>Progressive Web Apps<br>  </figcaption></figure><br></center>
+
 <p>Last week I attended <a href="http://www.deanhume.com/" target="_blank" rel="external">Dean Hume’s</a> Progressive Web Apps for beginners talk. (Thanks to the <a href="http://www.meetup.com/London-JavaScript-Community/" target="_blank" rel="external">London Javascript Community</a> for setting it all up). During the talk, Dean provided us with an amazing reading list. This reading list contained the fundamentals of Progressive Web Apps and how to make your first one. Rather than keeping my notes in my notebook I thought I’d share them with you all.</p>
-<h1 id="What-are-Progressive-Web-Apps"><a href="#What-are-Progressive-Web-Apps" class="headerlink" title="What are Progressive Web Apps?"></a>What are Progressive Web Apps?</h1><blockquote>
+<h2 id="What-are-Progressive-Web-Apps"><a href="#What-are-Progressive-Web-Apps" class="headerlink" title="What are Progressive Web Apps?"></a>What are Progressive Web Apps?</h2><blockquote>
 <p>Progressive Web Apps are experiences that combine the best of the web and the best of apps. They are useful to users from the very first visit in a browser tab, no install required. As the user progressively builds a relationship with the app over time, it becomes more and more powerful. It loads quickly, even on flaky networks, sends relevant push notifications, has an icon on the home screen, and loads as a top-level, full screen experience.</p>
 </blockquote>
 <p>There are three major benefits to using Progressive Web Apps for users:</p>
@@ -165,7 +167,7 @@ Technology
 <li>Faster</li>
 <li>Reliability Improvements</li>
 </ol>
-<h2 id="Service-Workers"><a href="#Service-Workers" class="headerlink" title="Service Workers"></a>Service Workers</h2><p>Before discussing the user benefits of Progressive Web Apps it’s important to know what the key to them is - <strong>Service Workers</strong>.</p>
+<h3 id="Service-Workers"><a href="#Service-Workers" class="headerlink" title="Service Workers"></a>Service Workers</h3><p>Before discussing the user benefits of Progressive Web Apps it’s important to know what the key to them is - <strong>Service Workers</strong>.</p>
 <p>A service worker is a script that stands between your website and the network, giving you, among other things, the ability to intercept network requests and respond to them in different ways.</p>
 <p>Three things to know about Service Workers:</p>
 <ol>
@@ -174,7 +176,7 @@ Technology
 <li>They are the key to Progressive Web Apps</li>
 </ol>
 <p>For a more thorough explanation of Service Workers visit <a href="https://www.smashingmagazine.com/2016/02/making-a-service-worker/" target="_blank" rel="external">Making A Service Worker: A Case Study.</a></p>
-<h2 id="App-Shell-Architecture"><a href="#App-Shell-Architecture" class="headerlink" title="App Shell Architecture"></a>App Shell Architecture</h2><blockquote>
+<h3 id="App-Shell-Architecture"><a href="#App-Shell-Architecture" class="headerlink" title="App Shell Architecture"></a>App Shell Architecture</h3><blockquote>
 <p>An application shell (or app shell) architecture is one way to build a Progressive Web App that reliably and instantly loads on your users’ screens, similar to what you see in native applications.</p>
 </blockquote>
 <p>By using an app shell, your application will be fast as speed is its primary focus. The application shell should:</p>
@@ -184,15 +186,18 @@ Technology
 <li>Cache the shell loads</li>
 <li>Dynamically display the apps content</li>
 </ol>
-<p><img src="https://developers.google.com/web/updates/images/2015/11/appshell/appshell-1.jpg" alt=""></p>
+<center><br>  <figure><br>    <img width="60%" src="https://developers.google.com/web/updates/images/2015/11/appshell/appshell-1.jpg" alt="app shell"><br>    <figcaption>App Shell<br>  </figcaption></figure><br></center>
+
 <p><em>Recommended Reading: <a href="bit.ly/app-shell">bit.ly/app-shell</a></em></p>
-<h1 id="User-Engagement"><a href="#User-Engagement" class="headerlink" title="User Engagement"></a>User Engagement</h1><p>Progressive Web Apps are not native mobile apps. So how can we create something that provides the same level (or better) of engagement that native apps do?</p>
-<h2 id="Icons-and-Colours"><a href="#Icons-and-Colours" class="headerlink" title="Icons and Colours"></a>Icons and Colours</h2><p>By customising the icons and colours of your website you provide familiarity and increase engagement. This will lead to users returning to your website.</p>
-<h3 id="Icons"><a href="#Icons" class="headerlink" title="Icons"></a>Icons</h3><p>When visiting your Progressive Web App, the browser will fetch an icon from the HTML. This icon will be used in various places, e.g. the browser tab, recent app switch, the new (or recently visited) tab page, and more.</p>
+<hr>
+<h2 id="User-Engagement"><a href="#User-Engagement" class="headerlink" title="User Engagement"></a>User Engagement</h2><p>Progressive Web Apps are not native mobile apps. So how can we create something that provides the same level (or better) of engagement that native apps do?</p>
+<h3 id="Icons-and-Colours"><a href="#Icons-and-Colours" class="headerlink" title="Icons and Colours"></a>Icons and Colours</h3><p>By customising the icons and colours of your website you provide familiarity and increase engagement. This will lead to users returning to your website.</p>
+<h4 id="Icons"><a href="#Icons" class="headerlink" title="Icons"></a>Icons</h4><p>When visiting your Progressive Web App, the browser will fetch an icon from the HTML. This icon will be used in various places, e.g. the browser tab, recent app switch, the new (or recently visited) tab page, and more.</p>
 <p>To support all browsers the following tags should be added to the <code>&lt;head&gt;</code> of each page:</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">&lt;!-- icon in the highest resolution we need it for --&gt;</div><div class="line">&lt;link rel=&quot;icon&quot; sizes=&quot;192x192&quot; href=&quot;icon.png&quot;&gt;</div><div class="line"></div><div class="line">&lt;!-- reuse same icon for Safari --&gt;</div><div class="line">&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;ios-icon.png&quot;&gt;</div><div class="line">&lt;!-- multiple icons for IE --&gt;</div><div class="line"></div><div class="line">&lt;meta name=&quot;msapplication-square310x310logo&quot; content=&quot;icon_largetile.png&quot;&gt;</div></pre></td></tr></table></figure>
-<h3 id="Colours"><a href="#Colours" class="headerlink" title="Colours"></a>Colours</h3><p>The browser (and some platform elements) can be modified by using different <code>&lt;meta&gt;</code> tags. By modifying these the user’s experience can be vastly improved. Elements that can be changed include the address bar and the status bar on a mobile device.</p>
-<p><img src="https://developers.google.com/web/fundamentals/design-and-ui/browser-customization/imgs/status-bar-translucent-2x.png" alt=""></p>
+<h4 id="Colours"><a href="#Colours" class="headerlink" title="Colours"></a>Colours</h4><p>The browser (and some platform elements) can be modified by using different <code>&lt;meta&gt;</code> tags. By modifying these the user’s experience can be vastly improved. Elements that can be changed include the address bar and the status bar on a mobile device.</p>
+<center><br>  <figure><br>    <img src="https://developers.google.com/web/fundamentals/design-and-ui/browser-customization/imgs/status-bar-translucent-2x.png" alt="Translucent Status Bar"><br>    <figcaption>Translucent Status Bar<br>  </figcaption></figure><br></center>
+
 <p>Using the <code>meta</code> tag <code>&lt;meta name=&quot;apple-mobile-web-app-status-bar-style&quot; content=&quot;black-translucent&quot;&gt;</code>the default status bar colour is changed to <code>black-translucent</code>.</p>
 <p><em>Recommended Reading:</em></p>
 <ol>
@@ -200,7 +205,7 @@ Technology
 <li><em><a href="bit.ly/manifest-json">bit.ly/manifest-json</a></em></li>
 <li><em><a href="tomitm.github.io/appmanifest">tomitm.github.io/appmanifest</a></em></li>
 </ol>
-<h2 id="Push-Notifications"><a href="#Push-Notifications" class="headerlink" title="Push Notifications"></a>Push Notifications</h2><p>There are three parts to a Progressive Web App push Notification:</p>
+<h3 id="Push-Notifications"><a href="#Push-Notifications" class="headerlink" title="Push Notifications"></a>Push Notifications</h3><p>There are three parts to a Progressive Web App push Notification:</p>
 <ol>
 <li>Subscribe user</li>
 <li>Save Subscription</li>
@@ -212,14 +217,15 @@ Technology
 <li><em><a href="bit.ly/push-notifications-google">bit.ly/push-notifications-google</a></em></li>
 <li><em><a href="bit.ly/push-notifications-dean">bit.ly/push-notifications-dean</a></em></li>
 </ol>
-<h1 id="More-Reliable-Application"><a href="#More-Reliable-Application" class="headerlink" title="More Reliable Application"></a>More Reliable Application</h1><h2 id="Caching"><a href="#Caching" class="headerlink" title="Caching"></a>Caching</h2><p>With Progressive Web Apps we are finally able to programmatically decide how to cache. Have no idea what I mean? Check out the recommended reading to fully understand.</p>
+<hr>
+<h2 id="More-Reliable-Application"><a href="#More-Reliable-Application" class="headerlink" title="More Reliable Application"></a>More Reliable Application</h2><h3 id="Caching"><a href="#Caching" class="headerlink" title="Caching"></a>Caching</h3><p>With Progressive Web Apps we are finally able to programmatically decide how to cache. Have no idea what I mean? Check out the recommended reading to fully understand.</p>
 <p><em>Recommended Reading: <a href="bit.ly/sw-toolbox">bit.ly/sw-toolbox</a></em></p>
-<h2 id="Save-Data-Header"><a href="#Save-Data-Header" class="headerlink" title="Save-Data Header"></a>Save-Data Header</h2><blockquote>
+<h3 id="Save-Data-Header"><a href="#Save-Data-Header" class="headerlink" title="Save-Data Header"></a>Save-Data Header</h3><blockquote>
 <p>The Save-Data client hint request header available in Chrome, Opera, and Yandex browsers enables developers to deliver fast and light applications to users who have opted-in to “data savings” mode in their browser.</p>
 </blockquote>
 <p>This sounds great, but what does it mean? Simply put, if your site visitor has opted for this, they will receive a scaled down version of your site. They will not receive hi-resolution images (or perhaps no images at all), but they will still be able to access your site when their signal is low.</p>
 <p><em>Recommended Reading:<br><a href="http://deanhume.com/home/blogpost/service-workers--save-your-users-data-using-the-save-data-header/10139" target="_blank" rel="external">http://deanhume.com/home/blogpost/service-workers–save-your-users-data-using-the-save-data-header/10139</a></em></p>
-<h1 id="Where-can-I-find-some-Progressive-Web-Apps"><a href="#Where-can-I-find-some-Progressive-Web-Apps" class="headerlink" title="Where can I find some Progressive Web Apps?"></a>Where can I find some Progressive Web Apps?</h1><p>The Opera Dev Relations team has put together a website listing loads of Progressive Web Apps already up and running  <a href="https://pwa.rocks/" target="_blank" rel="external">https://pwa.rocks/</a>. Make sure to have a look through, I’m sure you’ll recognise a few.</p>
+<h2 id="Where-can-I-find-some-Progressive-Web-Apps"><a href="#Where-can-I-find-some-Progressive-Web-Apps" class="headerlink" title="Where can I find some Progressive Web Apps?"></a>Where can I find some Progressive Web Apps?</h2><p>The Opera Dev Relations team has put together a website listing loads of Progressive Web Apps already up and running  <a href="https://pwa.rocks/" target="_blank" rel="external">https://pwa.rocks/</a>. Make sure to have a look through, I’m sure you’ll recognise a few.</p>
 <hr>
 <p>All of the above only scratches the surface of Progressive Web Apps and how to get started. After attending this talk I’m definitely inspired to create my own and can see unlimited possibilities with them.</p>
 <p>I’d love to know what are some of your favourite Progressive Web Apps? Have you ever built one? Were my notes useful? <a href="https://twitter.com/tanya_powell" target="_blank" rel="external">Tweet me</a> and let me know :)</p>
