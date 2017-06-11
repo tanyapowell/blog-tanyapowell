@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-  Technology: /technology
+  # Technology: /technology
   About: "https://tanyapowell.co.uk"
 
 # Logo Image Source
