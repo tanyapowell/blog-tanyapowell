@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.tanyapowell.co.uk/"/>
-  <updated>2017-06-12T06:08:41.000Z</updated>
+  <updated>2017-06-13T08:34:03.000Z</updated>
   <id>http://blog.tanyapowell.co.uk/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://blog.tanyapowell.co.uk/2017/06/11/Javascript-30/"/>
     <id>http://blog.tanyapowell.co.uk/2017/06/11/Javascript-30/</id>
     <published>2017-06-11T20:23:07.000Z</published>
-    <updated>2017-06-12T06:08:41.000Z</updated>
+    <updated>2017-06-13T08:34:03.000Z</updated>
     
     <summary type="html">
     
@@ -30,6 +30,8 @@
     
       <category term="Technology" scheme="http://blog.tanyapowell.co.uk/categories/Technology/"/>
     
+    
+      <category term="JavaScript, Challenge" scheme="http://blog.tanyapowell.co.uk/tags/JavaScript-Challenge/"/>
     
   </entry>
   
@@ -134,15 +136,15 @@
   </entry>
   
   <entry>
-    <title>Empowerhack-ing A Story Part 2</title>
-    <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/"/>
-    <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/</id>
+    <title>Empowerhack-ing A Story Part 3</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/</id>
     <published>2016-04-24T23:00:00.000Z</published>
     <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;How could I leave you all hanging? Just waiting with anticipation to find out how the rest of the &lt;a href=&quot;http://empowerhack.com&quot; target
+      &lt;p&gt;So much happened over the &lt;a href=&quot;http://empowerhack.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EmpowerHack&lt;/a&gt; LDN weekend that I couldn’t fit
     
     </summary>
     
@@ -154,15 +156,15 @@
   </entry>
   
   <entry>
-    <title>Empowerhack-ing A Story Part 3</title>
-    <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/"/>
-    <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part3/</id>
+    <title>Empowerhack-ing A Story Part 2</title>
+    <link href="http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/"/>
+    <id>http://blog.tanyapowell.co.uk/2016/04/25/Empowerhacking-A-Story-Part2/</id>
     <published>2016-04-24T23:00:00.000Z</published>
     <updated>2017-06-09T20:41:59.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;So much happened over the &lt;a href=&quot;http://empowerhack.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EmpowerHack&lt;/a&gt; LDN weekend that I couldn’t fit
+      &lt;p&gt;How could I leave you all hanging? Just waiting with anticipation to find out how the rest of the &lt;a href=&quot;http://empowerhack.com&quot; target
     
     </summary>
     
