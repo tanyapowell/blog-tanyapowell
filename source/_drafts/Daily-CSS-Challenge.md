@@ -17,7 +17,9 @@ tags: CSS, Challenge, Week 1
 
 ---
 
-## Day 3 -
+## Day 3 - Beaver
+<p data-height="500" data-theme-id="0" data-slug-hash="EXzVax" data-default-tab="css,result" data-user="tanyapowell" data-embed-version="2" data-pen-title="#dailycssimages [Beaver]" class="codepen">See the Pen <a href="https://codepen.io/tanyapowell/pen/EXzVax/">#dailycssimages [Beaver]</a> by Tanya Powell (<a href="https://codepen.io/tanyapowell">@tanyapowell</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 ---
 
